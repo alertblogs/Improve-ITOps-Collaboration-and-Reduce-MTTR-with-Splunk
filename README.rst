@@ -1,41 +1,46 @@
-AlertOps Expert Guidance
+Improve ITOps Collaboration and Reduce MTTR with Splunk
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Splunk helps IT operations (ITOps) teams simultaneously reduce their mean time to resolution (MTTR) and drive collaboration. To better understand Splunk, let’s take a closer look at the software platform, how it works and its benefits.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
-
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
-
-Automate Processes
+What Is Splunk?
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Splunk is a software platform that transforms machine data into meaningful insights for business users. It enables ITOps teams to examine real-time data across cloud, hybrid and on-premises environments. Splunk also collects and correlates machine data, and by doing so, enables ITOps teams to quickly troubleshoot outages, monitor service levels and identify anomalies.
 
-Clarity
+Ultimately, Splunk offers many benefits for ITOps teams, and these benefits include:
+
+    Advanced ITOps Analytics: Splunk transforms machine data into actionable insights, enabling ITOps teams to identify and resolve problems faster than ever before.
+    Message and Identity Infrastructure Monitoring: Splunk allows ITOps teams to track, audit, secure and analyze messages and identity infrastructure and workloads.
+    Mobile Intelligence: Splunk empowers ITOps teams to share mobile data with developers, operations and line of business users.
+    Operating System Monitoring: Splunk provides full operational visibility across Windows and Linux operating systems.
+    Network and Server Support: Splunk enables ITOps teams to quickly review configurations, logs and other network and server data so they can detect and address problems before they escalate.
+
+Additionally, ITOps teams can use Splunk for service desk to eliminate up to 90 percent of escalations and share data with colleagues to address common problems. Splunk for service desk empowers ITOps teams to index, search and analyze all their machine data from a single location, in real-time. Plus, the software enables ITOps teams to troubleshoot applications, investigate security incidents and meet compliance requirements.
+
+The benefits of Splunk for service desk include:
+
+    Index Logs: ITOps teams can index logs from email messages, network services, enterprise applications, web servers and all other critical IT services.
+    Predefined Form Searches: ITOps teams can leverage predefined form searches to validate and diagnose lost emails, failed web transactions and other routine problems without escalating these issues to senior system administrators and engineers.
+    Identification and Classification: ITOps teams can add saved searches, identify and classify events and transactions and extract fields over an extended period of time. This data empowers tier 1 staff to quickly diagnose problems and understand search results, as well as avoid escalations.
+    Automated Searches: ITOps teams can automate searches to proactively find routine user and customer issues and notify service desk personnel about these issues via integrations with service desk and ticketing systems.
+    Dashboards and Reports: ITOps teams can create dashboards and reports to monitor both user-impacting issues and diagnoses performed by tier 1 personnel using Splunk. Also, senior administrators and operations managers can review Splunk activity to identify trends and anomalies before they result in downtime, outages and other service problems.
+
+Splunk for service desk helps ITOps teams go from reactive to proactive. It empowers ITOps teams to speed up problem analysis and resolution, minimize escalations and prevent a one-time issue from becoming a recurring problem. Moreover, Splunk for service desk helps ITOps teams reduce the risk of high MTTR, excessive escalations and limited data access that otherwise hamper business productivity and efficiency.
+
+Does Your Incident Management System Integrate with Splunk?
 ====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Choosing an incident management system that offers a Splunk integration is paramount. In fact, integrating Splunk with an incident management system can help ITOps teams in a number of ways, such as:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    Fast Alerting: ITOps teams can send alerts directly from Splunk. This ensures ITOps team members won’t have to use multiple applications or platforms to deliver incident notifications to key stakeholders.
+    Custom Messaging: A custom message can be sent with an alert using any field from an inbound JSON. ITOps teams also can map an inbound field to a custom field in their incident management system.
+    Incident Tracking: ITOps teams can map any inbound field to the topic field in their incident monitoring system and use topics to track incidents and route incidents to the proper team members.
 
-Insightful Notifications
+Integrating Splunk into an incident monitoring system enables ITOps teams to efficiently track and analyze incidents. Splunk gives ITOps teams the ability to review incident data, find out why incidents are happening and make informed incident management decisions. It enables ITOps teams to receive and respond to critical alerts via email, SMS, push notifications and phone alerts, too. Perhaps best of all, an incident management system uses escalation policies and on-call schedules to ensures alerts received via Splunk always reach the correct ITOps team members.
+
+For ITOps teams that want to deploy an alert monitoring system or upgrade their existing system, selecting a system that integrates with Splunk is ideal. With a combination of Splunk and an incident management system at its disposal, an ITOps team may be better equipped than ever before to reduce MTTR, foster collaboration and drive meaningful results across a business.
+
 ====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
-
-source:
-====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
-
+https://alertops.com/improve-itops-collaboration-and-reduce-mttr-with-splunk/
 Read more:
 ====
 
